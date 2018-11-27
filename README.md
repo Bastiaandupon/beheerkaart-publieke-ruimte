@@ -9,4 +9,4 @@ The percentage or fraction of public space is intersected with a CBS-GRID
  
 - 'verblijversindex'
 
-- administration boudaries
+- administration boundaries
