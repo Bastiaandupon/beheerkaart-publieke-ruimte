@@ -23,7 +23,6 @@ select
 	brt.buurtcombinatie_naam,
 	brt.buurtcombinatie_code,
 	brt.buurtcombinatie_vollcode,
-	brt.gebiedsgerichtwerken_id,
 	brt.gebiedsgerichtwerken_naam,
 	brt.gebiedsgerichtwerken_code,
 	brt.stadsdeel_id,
